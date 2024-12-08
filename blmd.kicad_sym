@@ -280,7 +280,7 @@
 				)
 			)
 			(pin power_in line
-				(at 11.43 -5.08 180)
+				(at 11.43 2.54 180)
 				(length 2.54)
 				(name "V5"
 					(effects
@@ -298,7 +298,7 @@
 				)
 			)
 			(pin power_in line
-				(at 11.43 -1.27 180)
+				(at 11.43 -5.08 180)
 				(length 2.54)
 				(name "VDSTH"
 					(effects
@@ -316,7 +316,7 @@
 				)
 			)
 			(pin power_in line
-				(at 11.43 2.54 180)
+				(at 11.43 -1.27 180)
 				(length 2.54)
 				(name "FAULT"
 					(effects
