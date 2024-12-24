@@ -983,7 +983,7 @@
 			(pintype "passive")
 			(uuid "f5fda51e-e3da-4d68-b0d2-36f21d234767")
 		)
-		(model "${KIPRJMOD}/3d_model/TPN1R603PL,L1Q.stp"
+		(model "${KIPRJMOD}/library/3d_model/TPN1R603PL,L1Q.stp"
 			(offset
 				(xyz 0 -2.5 0)
 			)
@@ -3874,7 +3874,7 @@
 			(pintype "passive")
 			(uuid "3de1a05f-4094-483c-82f9-1ef778579d4b")
 		)
-		(model "${KIPRJMOD}/3d_model/TPN1R603PL,L1Q.stp"
+		(model "${KIPRJMOD}/library/3d_model/TPN1R603PL,L1Q.stp"
 			(offset
 				(xyz 0 -2.5 0)
 			)
@@ -6487,7 +6487,7 @@
 			(pintype "passive")
 			(uuid "6510a43e-7354-48b5-9e1a-049cd932a8bf")
 		)
-		(model "${KIPRJMOD}/3d_model/TPN1R603PL,L1Q.stp"
+		(model "${KIPRJMOD}/library/3d_model/TPN1R603PL,L1Q.stp"
 			(offset
 				(xyz 0 -2.5 0)
 			)
@@ -7044,7 +7044,7 @@
 			(pintype "passive")
 			(uuid "ab635e4c-dad0-4698-b2b7-bcfde8e3f6b5")
 		)
-		(model "${KIPRJMOD}/3d_model/TPN1R603PL,L1Q.stp"
+		(model "${KIPRJMOD}/library/3d_model/TPN1R603PL,L1Q.stp"
 			(offset
 				(xyz 0 -2.5 0)
 			)
@@ -9776,7 +9776,7 @@
 			(pintype "passive")
 			(uuid "39882471-fd66-4779-b867-9366c7d9c833")
 		)
-		(model "${KIPRJMOD}/3d_model/TPN1R603PL,L1Q.stp"
+		(model "${KIPRJMOD}/library/3d_model/TPN1R603PL,L1Q.stp"
 			(offset
 				(xyz 0 -2.5 0)
 			)
@@ -12874,7 +12874,7 @@
 			(pintype "passive")
 			(uuid "9115a14a-51c0-417e-b0c0-075467231248")
 		)
-		(model "${KIPRJMOD}/3d_model/TPN1R603PL,L1Q.stp"
+		(model "${KIPRJMOD}/library/3d_model/TPN1R603PL,L1Q.stp"
 			(offset
 				(xyz 0 -2.5 0)
 			)
@@ -14405,7 +14405,7 @@
 			(uuid "c63b28e7-2e23-4f2d-ac6f-3571369bf435")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2.5 -180)
+			(at 0 2.5 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(uuid "f02de205-dc08-4604-b7cd-0f55623a188b")
@@ -14461,7 +14461,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "3ea99db7-c96d-43bc-bb00-7adcb2e9839d")
 		)
-		(model "${KIPRJMOD}/3Dmodel/SKRPACE010.stp"
+		(model "${KIPRJMOD}/library/3d_model/SKRPACE010.stp"
 			(offset
 				(xyz 0 0 0)
 			)
