@@ -14347,7 +14347,8 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 248.92 57.15 180)
+		(at 248.92 57.15 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14355,7 +14356,7 @@
 		(dnp no)
 		(uuid "76e249b0-fe68-4936-a71f-97b639c49d6a")
 		(property "Reference" "R10"
-			(at 246.38 57.15 90)
+			(at 251.46 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14371,7 +14372,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 250.698 57.15 90)
+			(at 247.142 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15749,7 +15750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN_IN32G4_STM"
+		(property "Footprint" "blmd_hardware:QFN_IN32G4_STM"
 			(at 90.17 93.98 0)
 			(effects
 				(font
