@@ -11463,7 +11463,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "schot"
+		(property "Value" "1N5819WS"
 			(at 161.29 32.0674 90)
 			(effects
 				(font
@@ -11472,7 +11472,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 163.83 30.48 0)
 			(effects
 				(font
@@ -12164,7 +12164,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "schot"
+		(property "Value" "1N5819WS"
 			(at 80.01 74.6126 90)
 			(effects
 				(font
@@ -12173,7 +12173,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 77.47 76.2 0)
 			(effects
 				(font
@@ -15133,7 +15133,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "fast rec"
+		(property "Value" "1N4148WS"
 			(at 167.132 108.204 90)
 			(effects
 				(font
@@ -15142,7 +15142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 167.64 105.41 0)
 			(effects
 				(font
@@ -18007,7 +18007,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "schot"
+		(property "Value" "1N5819WS"
 			(at 118.11 32.0674 90)
 			(effects
 				(font
@@ -18016,7 +18016,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 120.65 30.48 0)
 			(effects
 				(font
@@ -18298,7 +18298,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "schot"
+		(property "Value" "1N5819WS"
 			(at 74.93 32.0674 90)
 			(effects
 				(font
@@ -18307,7 +18307,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 77.47 30.48 0)
 			(effects
 				(font
