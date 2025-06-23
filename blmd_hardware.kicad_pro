@@ -433,7 +433,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -619,6 +619,10 @@
     [
       "37d90e90-2887-4e3b-9cff-6b0fbe1d33ab",
       "Root"
+    ],
+    [
+      "bc8045b5-cf84-4a8c-a0da-7f34dc887e12",
+      "control"
     ]
   ],
   "text_variables": {}
